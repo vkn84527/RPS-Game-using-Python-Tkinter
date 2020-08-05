@@ -6,7 +6,7 @@
 Two players can play this game at a time. Each one has to choose from the three options available.
 
 In this we are going to play against your enemy, which is the computer. 
-# The rules of the game are listed below:
+## The rules of the game are listed below:
 
 If one player chooses the rock, and the other chooses the scissor, rock wins.
 If one player chooses the rock, and the other player chooses paper, paper wins.
