@@ -2,7 +2,7 @@
 
 ## Game Rules
 
- if you don’t know what Rock Paper Scissors game is, it is a game with three choices: rock, paper, and scissors. 
+ if you don’t know what Rock Paper Scissors game is, it is a game with three choices: rock, paper, and scissors. <br />
 Two players can play this game at a time. Each one has to choose from the three options available.
 
 In this we are going to play against your enemy, which is the computer. 
